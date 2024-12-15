@@ -10,7 +10,7 @@
 
 ## Introduction
 
-* IIn this project, we will predict the impact of forest fires in the northeast region of Portugal using linear regression.
+* In this project, we will predict the impact of forest fires in the northeast region of Portugal using linear regression.
 
 * We log-transformed the target variable, handled missing data with K-Nearest Neighbors (KNN) imputation, identified outliers, standardized the dataset, and implemented multiple linear regression models. These included sequential feature selection (forward and backward), Ridge regression, and evaluation using K-Fold cross-validation.
 
